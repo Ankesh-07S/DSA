@@ -2,16 +2,16 @@
 
 This repository contains my solutions to Data Structures and Algorithms problems solved during my placement preparation.
 
-## 🚀 Goals
+## Goals
 - Strengthen problem-solving skills
 - Prepare for coding interviews
 - Improve understanding of DSA concepts
 - Solve 300+ problems
 
-## 💻 Language
+## Language
 - Java
 
-## 📚 Topics Covered
+## Topics Covered
 - Arrays
 - Strings
 - Hashing
